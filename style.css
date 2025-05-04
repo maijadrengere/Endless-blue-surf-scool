@@ -49,12 +49,13 @@ html {
   }
   #teksts p {
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1;
     border: 2px solid #9BC3FF;
     padding: 20px;
-    margin: 20px 0;
+    margin: 20px ;
     border-radius: 8px;
     background-color: rgba(155, 195, 255, 0.1);
   }
+ 
 }
 
