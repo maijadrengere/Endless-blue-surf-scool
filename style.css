@@ -41,6 +41,8 @@ html {
   }
   #teksts{
     font-family: 'Jomolhari';
+    padding-left: 40px;
+    padding-right: 40px;
   }
   #teksts h3 {
     font-size: 32px;
