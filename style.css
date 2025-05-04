@@ -2,5 +2,45 @@ html {
   height: 100%;
   width: 100%;
   background: #8FAFDE;
+
+  #footer {
+    text-align: center; 
+  }
+  #nosaukums {
+    position: absolute;
+    top: 60px;
+    left: 400px;
+    font-size: 125px;
+    text-align:center;
+    font-family: 'Jomolhari';
+    font-weight: normal;
+  }
+  #zem-nosaukums {
+    position: absolute;
+    top: 400px;
+    left: 650px;
+    font-size: 45px;
+    text-align:center;
+    font-family: 'Jomolhari';
+    font-weight: normal
+  }
+  #pogas {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px  ;
+    width: 100%;
+    top: 10px;
+  }
+  #pogas a {
+    text-decoration: none;
+    color: white;
+    background-color: #6283D6;
+    padding: 15px 60px;
+    border-radius: 4px;
+    font-size: 24px;
+  }
+  #teksts{
+    font-family: 'Jomolhari';
+  }
 }
 
